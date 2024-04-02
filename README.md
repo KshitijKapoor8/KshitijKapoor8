@@ -1,8 +1,8 @@
 ## Heya! 👋
 
-### I'm Kshitij 
-##### I am a programmer, hacker, and software engineering enthusiast.
-##### I am passionate about creating robust backends utilizing modern, cutting edge technologies.
+### I'm Kshitij! 
+#### I am a programmer, hacker, and software engineering enthusiast.
+#### I am passionate about creating robust backends utilizing modern, cutting edge technologies.
 
 - 🔭 I’m currently working on...
   - A full stack application utilizing **SvelteKit** and **Supabase**

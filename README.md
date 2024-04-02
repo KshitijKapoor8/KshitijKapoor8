@@ -5,12 +5,16 @@
 #### I am passionate about creating robust backends utilizing modern, cutting edge technologies.
 
 - 🔭 I’m currently working on...
-  - A full stack application utilizing **SvelteKit** and **Supabase**
-  - A complex backend using **Hono 🔥** and **MySQL + Prisma 🌈**
-  - Two other backend solutions both utilizing **Hono 🔥** and **PostgreSQL**
-  - Hopefully, contributing to the [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) project in **Rust** 
+    - A full stack application utilizing **SvelteKit** and **Supabase**
+    - A complex backend using **Hono 🔥** and **MySQL + Prisma 🌈**
+    - Two other backend solutions both utilizing **Hono 🔥** and **PostgreSQL**
+    - Hopefully, contributing to the [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) project in **Rust** 
 - 🌱 I’m currently learning the **Prisma ORM 🌈** and **Rust**
 - 📫 How to reach me: Message me on discord *@shimadashimado*, or email me at *kshitij@utexas.edu*
-- 💪🏽 Something I am proud of is my success in two hackathons hosted by my university, [nectar](https://devpost.com/software/nectar-zmuwce) and [trove](https://devpost.com/software/found-b1p3x7), as well as [Hike](https://devpost.com/software/hike)... even though we didn't win, this was the most technically impressive project that I made in the shortest amount of time.
+- 💪🏽 Something I am proud of is my success in hackathons...
+    - I helped make [nectar](https://devpost.com/software/nectar-zmuwce) 🍯, a chrome extension which analyzes amazon products' sustainability, in **React** and **Express** with my friends, and we won first overall at Hack the Future 2023
+    - I helped develop [hike](https://devpost.com/software/hike) 🏔️... even though we didn't win, this was the most technically impressive project that I made in the shortest amount of time as it involved making our own **email server**, a robust backend in **Hono** and **PostgreSQL**, and complicated analysis within AWS's **Lambda Functions** using **NLP**
+    - I helped create [trove](https://devpost.com/software/found-b1p3x7) 🏴‍☠️, an application for lost and found items on UT's campus, in **React Native** and **Spring Boot** along with **S3**, for which my team won first overall beginner at HackTX 2022, UT's biggest hackathon
+    - I helped make [seek](https://devpost.com/software/seek-ju5cw8) 👀, a complex social media application written in **React Native**, **Express**, and **TiDB**, for which we advanced to the finalists of a hackathon with over 1400 participants.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am an avid neovim user. Greatest development experience I have ever had.

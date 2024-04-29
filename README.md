@@ -16,4 +16,3 @@
     - I helped develop [hike](https://devpost.com/software/hike) 🏔️... even though we didn't win, this was the most technically impressive project that I made in the shortest amount of time as it involved making our own **email server**, a robust backend in **Hono** and **PostgreSQL**, and complicated analysis within AWS's **Lambda Functions** using **NLP**
     - I helped make [seek](https://devpost.com/software/seek-ju5cw8) 👀, a complex social media application written in **React Native**, **Express**, and **TiDB**, for which we advanced to the finalists of a hackathon with over 1400 participants.
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I am an avid neovim user. Greatest development experience I have ever had.

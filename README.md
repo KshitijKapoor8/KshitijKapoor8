@@ -2,7 +2,7 @@
 
 ### I'm Kshitij! 
 #### I am a programmer, hacker, and software engineering enthusiast.
-#### I am passionate about creating robust backends utilizing modern, cutting edge technologies.
+#### I am passionate about creating robust systems utilizing modern, cutting edge technologies.
 
 - 🔭 I’m currently working on...
     - A complex backend using **Hono 🔥** and **MySQL + Prisma 🌈**

@@ -5,11 +5,11 @@
 #### I am passionate about creating robust backends utilizing modern, cutting edge technologies.
 
 - 🔭 I’m currently working on...
-    - A full stack application utilizing **SvelteKit** and **Supabase**
     - A complex backend using **Hono 🔥** and **MySQL + Prisma 🌈**
-    - Two other backend solutions both utilizing **Hono 🔥** and **PostgreSQL**
-    - Hopefully, contributing to the [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) project in **Rust** 
-- 🌱 I’m currently learning the **Prisma ORM 🌈** and **Rust**
+    - A tool written in **Go** to utilize the [Terminal Graphics Protocol](https://sw.kovidgoyal.net/kitty/graphics-protocol/) to stream YouTube videos directly in the terminal
+    - Programming software limits for current for a Formula SAE racecar using the STM32 microcontroller
+    - Implementing a modified **Xmodem** protocol to send files over 915Mhz radio
+- 🌱 I’m currently learning **Golang** and **Embedded Systems**
 - 📫 How to reach me: Message me on discord *@shimadashimado*, or email me at *kshitij@utexas.edu*
 - 💪🏽 Something I am proud of is my success in hackathons...
     - I helped make [nectar](https://devpost.com/software/nectar-zmuwce) 🍯, a chrome extension which analyzes amazon products' sustainability, in **React** and **Express** with my friends, and we won first overall at Hack the Future 2023

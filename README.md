@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on...
     - A complex backend using **Hono 🔥** and **MySQL + Prisma 🌈**
-    - A tool written in **Go** to utilize the [Terminal Graphics Protocol](https://sw.kovidgoyal.net/kitty/graphics-protocol/) to stream YouTube videos directly in the terminal
     - Programming software limits for current for a Formula SAE racecar using the STM32 microcontroller
     - Implementing a modified **XMODEM** protocol to send files over 915Mhz radio
 - 🌱 I’m currently learning **Golang** and **Embedded Systems**

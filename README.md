@@ -5,7 +5,6 @@
 #### I am passionate system design and architecture
 
 - 🔭 I’m currently working on...
-    - A complex backend using **Hono 🔥** and **MySQL + Prisma 🌈**
     - Programming software limits for current for a Formula SAE racecar using the STM32 microcontroller
     - Implementing a modified **XMODEM** protocol to send files over 915Mhz radio
 - 🌱 I’m currently learning **Golang** and **Embedded Systems**

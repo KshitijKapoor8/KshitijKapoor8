@@ -2,12 +2,12 @@
 
 ### I'm Kshitij! 
 #### I am a programmer, hacker, and software engineering enthusiast.
-#### I am passionate system design and architecture
+#### I love computer systems
 
 - 🔭 I’m currently working on...
     - Programming software limits for current for a Formula SAE racecar using the STM32 microcontroller
-    - Implementing a modified **XMODEM** protocol to send files over 915Mhz radio
-- 🌱 I’m currently learning **Golang** and **Embedded Systems**
+    - Implementing a modified **XMODEM** protocol to send files to and from the racecar over 915Mhz radio
+    - Working on [taos](https://github.com/pgosar/TAOS), an operating system written from scratch in **rust**
 - 📫 How to reach me: Message me on discord *@shimadashimado*, or email me at *kshitij@utexas.edu*
 - 💪🏽 I love hackathons! Here are some of my projects
     - I helped make [nectar](https://devpost.com/software/nectar-zmuwce) 🍯, a chrome extension which analyzes amazon products' sustainability, in **React** and **Express** with my friends, and we won first overall at Hack the Future 2023

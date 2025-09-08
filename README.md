@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on...
     - Working on [TAOS](https://github.com/TAOS-Labs/TAOS), a Plan-9 and Mach inspired operating system written from scratch in **Rust**
-    - Multiplexing CAN messages for many sensors for a Formula SAE Racecar
     - Implementing a modified **XMODEM** protocol to send files to and from the racecar over 915Mhz radio
    
 - 📫 How to reach me: Message me on discord *@shimadashimado*, or email me at *kshitij@utexas.edu*
